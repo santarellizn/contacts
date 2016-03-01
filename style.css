@@ -104,5 +104,7 @@ body {
     .cntlist {
         text-align: center;
     }
-
+    li p {
+        font-size:20px;
+    }
 }
